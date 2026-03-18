@@ -7,7 +7,7 @@ I made this RAG Pipeline to answer questions about my fraternities rules & sched
 - **Multi-format Document Parsing**: Handles PDF and Excel files with metadata extraction
 - **Intelligent Chunking**: Semantic text chunking with configurable overlap for optimal context preservation
 - **Vector Search**: ChromaDB-based vector storage with sentence-transformer embeddings
-- **Claude Integration**: Conversational AI powered by Gemini Flash 2.5
+- **Gemini Integration**: Conversational AI powered by Gemini Flash 2.5
 - **Interactive Chat**: Stream responses in real-time with conversation history
 - **Persistent Storage**: Vector database persists between sessions
 
